@@ -1,0 +1,1 @@
+# Building a PC and assigning it with an Static IP. Understanding of all hardware components, diagnostics and backup tools. Understanding good networking practices with the use of Powershell and Wireshark. (Associated with Barnfield College).
